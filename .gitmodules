@@ -1,1 +1,4 @@
 
+[submodule "WOTC_SRD/DND5e/Melek_Simple_5e/framework"]
+	path = WOTC_SRD/DND5e/Melek_Simple_5e/framework
+	url = git@github.com:melek/Simple5e
