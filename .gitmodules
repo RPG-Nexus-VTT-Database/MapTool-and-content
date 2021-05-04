@@ -1,1 +1,13 @@
 
+[submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework"]
+	path = WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework
+	url = git@github.com:melek/Simple5e
+[submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek"]
+	path = WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek
+	url = git@github.com:bobifle/tokens
+[submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek"]
+	path = WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek
+	url = git@github.com:merudo/spell-library
+[submodule "WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework"]
+	path = WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework
+	url = git@github.com:rtakehara/5e-framework
