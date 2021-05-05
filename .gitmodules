@@ -11,3 +11,6 @@
 [submodule "WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework"]
 	path = WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework
 	url = git@github.com:rtakehara/5e-framework
+[submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator"]
+	path = WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator
+	url = git@github.com:Illydth/imcMonsterCreator
