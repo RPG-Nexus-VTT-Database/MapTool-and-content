@@ -1,3 +1,13 @@
+This section contains materials for general use in Unofficial Warhammer 40K  content and related materials.
+
+Please only upload generic content to the main folder.
+
+The <b>W40k-RPG_unofficial_FW_Wolph42.cmpgn</b? file contains a generic Unofficial Warhammer 40k framework that can be used for any gaming environment.
+
+Please see the forum link below for instructions on installing this framework.
+
+https://forums.rptools.net/viewtopic.php?p=228580#p228580
+
 All Frameworks and other materials in this repo are <b>unofficial</b> and must comply with the Games Worksop IP requirements for community content.
 
 You can find the complete IP Policy here.

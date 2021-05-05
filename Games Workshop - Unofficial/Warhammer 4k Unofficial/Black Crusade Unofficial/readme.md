@@ -1,3 +1,5 @@
+This section contains materials specific to Unofficial Black Crusade content and related materials.
+
 All Frameworks and other materials in this repo are <b>unofficial</b> and must comply with the Games Worksop IP requirements for community content.
 
 You can find the complete IP Policy here.
