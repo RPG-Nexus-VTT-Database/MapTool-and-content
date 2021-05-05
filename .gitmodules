@@ -14,3 +14,6 @@
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator"]
 	path = WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator
 	url = git@github.com:Illydth/imcMonsterCreator
+[submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates"]
+	path = WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates
+	url = git@github.com:Illydth/issSpellStates
