@@ -77,21 +77,21 @@
 [submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
 	path = Modiphius_games/Fallout_RPG/pousilas_framework
 	url = git@github.com:poutsilas/falloutpnp
-[submodule "Macro_Tools/Greyhawk_macros"]
+[submodule "Greyhawk_macros"]
 	path = Macro_Tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
-[submodule "Macro_Tools/juan286_maptoolsmacros_es"]
+[submodule "juan286_maptoolsmacros_es"]
 	path = Macro_Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
 [submodule "charlweed_custom_weapontables"]
 	path = random_tools/charlweed_custom_weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
-[submodule "Random_tools/melek_CustomCounters"]
+[submodule "melek_CustomCounters"]
 	path = Random_tools/melek_CustomCounters
 	url = git@github.com:melek/customcounters
-[submodule "Random_tools/BBOR_4e_framework"]
+[submodule "BBOR_4e_framework"]
 	path = Unsorted_frameworks/BBOR_4e_framework
 	url = https://github.com/bbor/maptool-4e
-[submodule "Unsorted_Frameworks/Cerebus13_Darksun_unofficial"]
+[submodule "Cerebus13_Darksun_unofficial"]
 	path = Unsorted_Frameworks/Cerebus13_Darksun_unofficial
 	url = git@github.com:cerebus13/darksun-maptools-framework
