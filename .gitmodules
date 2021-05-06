@@ -83,9 +83,6 @@
 [submodule "random_tools/Charlweed_custom_weapontables"]
 	path = random_tools/Charlweed_custom_weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
-[submodule "macro_tools/Juan0286_maptoolsmacros_es"]
-	path = macro_tools/Juan0286_maptoolsmacros_es
-	url = git@github.com:juan0286/maptoolsmacros
 [submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
 	path = Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert
 	url = git@github.com:scottbert85/swmaptool
@@ -95,3 +92,6 @@
 [submodule "Macro_Tools/Greyhawk_macros"]
 	path = Macro_Tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
+[submodule "Macro_Tools/juan286_maptoolsmacros_es"]
+	path = Macro_Tools/juan286_maptoolsmacros_es
+	url = git@github.com:juan0286/maptoolsmacros
