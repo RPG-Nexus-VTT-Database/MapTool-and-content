@@ -89,9 +89,6 @@
 [submodule "Macro_Tools/juan286_maptoolsmacros_es"]
 	path = Macro_Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
-[submodule "Random_tools/melek_custom_counters"]
-	path = Random_tools/melek_custom_counters
-	url = git@github.com:melek/customcounters
 [submodule "charlweed_custom_weapontables"]
 	path = random_tools/charlweed_custom_weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
