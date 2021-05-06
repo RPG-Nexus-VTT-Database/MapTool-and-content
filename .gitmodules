@@ -32,9 +32,6 @@
 [submodule "Macro_Tools/MT_custom_dicechecks"]
 	path = Macro_Tools/MT_custom_dicechecks
 	url = git@github.com:charlweed/maptool_custom_dicechecks
-[submodule "Unsorted_Frameworks/BBOR_4e_framework"]
-	path = Unsorted_Frameworks/BBOR_4e_framework
-	url = https://github.com/bbor/maptool-4e
 [submodule "Unsorted_Frameworks/MT-jadebringer-extension"]
 	path = Unsorted_Frameworks/MT-jadebringer-extension
 	url = git@github.com:source-knights/MapTool-jadebringer-extension
