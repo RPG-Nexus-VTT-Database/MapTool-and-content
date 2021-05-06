@@ -17,3 +17,45 @@
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates"]
 	path = WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates
 	url = git@github.com:Illydth/issSpellStates
+[submodule "Macro_Tools/MT_textmate_bundle"]
+	path = Macro_Tools/MT_textmate_bundle
+	url = git@github.com:wwmoraes/MapTool.tmbundle
+[submodule "remission_campaign_fr"]
+	path = Unsorted_frameworks/remission_campaign_fr
+	url = git@github.com:JimmyLefevre/remission-maptool-campaign
+[submodule "Macro_Tools/Beekips_5e_macros"]
+	path = Macro_Tools/Beekips_5e_macros
+	url = git@github.com:Beebkips/maptool-5e-macros
+[submodule "Macro_Tools/MT_Sublime_addon"]
+	path = Macro_Tools/MT_Sublime_addon
+	url = git@github.com:wwmoraes/sublime-maptool-syntax
+[submodule "Macro_Tools/MT_custom_dicechecks"]
+	path = Macro_Tools/MT_custom_dicechecks
+	url = git@github.com:charlweed/maptool_custom_dicechecks
+[submodule "Unsorted_Frameworks/BBOR_4e_framework"]
+	path = Unsorted_Frameworks/BBOR_4e_framework
+	url = git@github.com:bbor/maptool-4e
+[submodule "Unsorted_Frameworks/MT-jadebringer-extension"]
+	path = Unsorted_Frameworks/MT-jadebringer-extension
+	url = git@github.com:source-knights/MapTool-jadebringer-extension
+[submodule "Random_tools/MT_Github_integration"]
+	path = Random_tools/MT_Github_integration
+	url = git@github.com:tdue21/maptoolintegration
+[submodule "Macro_Tools/Maptools-HoM"]
+	path = Macro_Tools/Maptools-HoM
+	url = git@github.com:jonathanjacobs/maptools-HoM
+[submodule "Unsorted_Frameworks/Darksun_unofficial_framework"]
+	path = Unsorted_Frameworks/Darksun_unofficial_framework
+	url = git@github.com:cerebus13/darksun-maptools-framework
+[submodule "Unsorted_Frameworks/battle_of_chaos_unofficial"]
+	path = Unsorted_Frameworks/battle_of_chaos_unofficial
+	url = git@github.com:fenghou1st/BattleOfChaos-MapTool-LibToken
+[submodule "Random_tools/MT_1.3.b89_plugin_adder"]
+	path = Random_tools/MT_1.3.b89_plugin_adder
+	url = git@github.com:lordashes/maptool-1.3.b89-plugin
+[submodule "Random_tools/MT_code+assets"]
+	path = Random_tools/MT_code+assets
+	url = git@github.com:charlweed/dandddads
+[submodule "Unsorted_Frameworks/Lorecall_ep2_unofficial_framework"]
+	path = Unsorted_Frameworks/Lorecall_ep2_unofficial_framework
+	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
