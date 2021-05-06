@@ -59,3 +59,36 @@
 [submodule "Unsorted_Frameworks/Lorecall_ep2_unofficial_framework"]
 	path = Unsorted_Frameworks/Lorecall_ep2_unofficial_framework
 	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
+[submodule "Token_tools/Hero_Lab_Token_creator"]
+	path = Token_tools/Hero_Lab_Token_creator
+	url = git@github.com:esalarc/herolabtokencreator
+[submodule "Macro_Tools/Heavyduck_Macro_maker"]
+	path = Macro_Tools/Heavyduck_Macro_maker
+	url = git@github.com:wjrogers/heavyduck.dnd.macromaker
+[submodule "MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE"]
+	path = MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE
+	url = git@github.com:LordAshes/MapTool-1.3.b89-CCG
+[submodule "WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet"]
+	path = WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet
+	url = git@github.com:Dimencia/D-s-Maptool-Character-Sheet-for-Pathfinder
+[submodule "WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework"]
+	path = WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework
+	url = git@github.com:adventuremagic123/PF1e-And-3.5-Framework-For-MapTool
+[submodule "macro_tools/Greyhawk_macros"]
+	path = macro_tools/Greyhawk_macros
+	url = git@github.com:ecyclops/greyhawk
+[submodule "random_tools/melek_custom_counters"]
+	path = random_tools/melek_custom_counters
+	url = git@github.com:melek/customcounters
+[submodule "random_tools/Charlweed_custom_weapontables"]
+	path = random_tools/Charlweed_custom_weapontables
+	url = git@github.com:charlweed/maptool_custom_weapontables
+[submodule "macro_tools/Juan0286_maptoolsmacros_es"]
+	path = macro_tools/Juan0286_maptoolsmacros_es
+	url = git@github.com:juan0286/maptoolsmacros
+[submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
+	path = Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert
+	url = git@github.com:scottbert85/swmaptool
+[submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
+	path = Modiphius_games/Fallout_RPG/pousilas_framework
+	url = git@github.com:poutsilas/falloutpnp
