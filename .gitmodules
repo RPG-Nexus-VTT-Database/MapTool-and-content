@@ -77,12 +77,6 @@
 [submodule "macro_tools/Greyhawk_macros"]
 	path = macro_tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
-[submodule "random_tools/melek_custom_counters"]
-	path = random_tools/melek_custom_counters
-	url = git@github.com:melek/customcounters
-[submodule "random_tools/Charlweed_custom_weapontables"]
-	path = random_tools/Charlweed_custom_weapontables
-	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
 	path = Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert
 	url = git@github.com:scottbert85/swmaptool
@@ -95,9 +89,9 @@
 [submodule "Macro_Tools/juan286_maptoolsmacros_es"]
 	path = Macro_Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
-[submodule "Random_tools/charlweed_custom_weapontables"]
-	path = Random_tools/charlweed_custom_weapontables
-	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "Random_tools/melek_custom_counters"]
 	path = Random_tools/melek_custom_counters
 	url = git@github.com:melek/customcounters
+[submodule "Random_tools/charlweed_custom_weapontables"]
+	path = Random_tools/charlweed_custom_weapontables
+	url = git@github.com:charlweed/maptool_custom_weapontables
