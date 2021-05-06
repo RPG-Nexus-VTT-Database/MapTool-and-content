@@ -92,6 +92,3 @@
 [submodule "charlweed_custom_weapontables"]
 	path = random_tools/charlweed_custom_weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
-[submodule "Random_tools/melek_custom_counters"]
-	path = Random_tools/melek_custom_counters
-	url = git@github.com:melek/customcounters
