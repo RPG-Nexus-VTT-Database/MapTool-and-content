@@ -93,5 +93,5 @@
 	path = Macro_Tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
 [submodule "Macro_Tools/juan286_maptoolsmacros_es"]
-	path = Macro_Tools/juan286_maptoolsmacros_es
+	path = Macro_Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
