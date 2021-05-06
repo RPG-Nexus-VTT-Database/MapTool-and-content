@@ -92,3 +92,6 @@
 [submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
 	path = Modiphius_games/Fallout_RPG/pousilas_framework
 	url = git@github.com:poutsilas/falloutpnp
+[submodule "Macro_Tools/Greyhawk_macros"]
+	path = Macro_Tools/Greyhawk_macros
+	url = git@github.com:ecyclops/greyhawk
