@@ -92,6 +92,3 @@
 [submodule "BBOR_4e_framework"]
 	path = Unsorted_frameworks/BBOR_4e_framework
 	url = https://github.com/bbor/maptool-4e
-[submodule "Unsorted_Frameworks/Cerebus13_Darksun_unofficial"]
-	path = Unsorted_Frameworks/Cerebus13_Darksun_unofficial
-	url = git@github.com:cerebus13/darksun-maptools-framework
