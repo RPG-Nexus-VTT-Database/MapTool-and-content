@@ -41,9 +41,6 @@
 [submodule "Macro_Tools/Maptools-HoM"]
 	path = Macro_Tools/Maptools-HoM
 	url = git@github.com:jonathanjacobs/maptools-HoM
-[submodule "Unsorted_Frameworks/Darksun_unofficial_framework"]
-	path = Unsorted_Frameworks/Darksun_unofficial_framework
-	url = git@github.com:cerebus13/darksun-maptools-framework
 [submodule "Unsorted_Frameworks/battle_of_chaos_unofficial"]
 	path = Unsorted_Frameworks/battle_of_chaos_unofficial
 	url = git@github.com:fenghou1st/BattleOfChaos-MapTool-LibToken
