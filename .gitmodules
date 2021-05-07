@@ -66,7 +66,7 @@
 	path = macro_tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
 [submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
-	path = Pinnacle_entertainment/Savage_Worlds_AE/frameworks/scottbert
+	path = Pinnacle_entertainment/Savage_Worlds_AE/Savage_Worlds_AE_framework_scottbert
 	url = git@github.com:scottbert85/swmaptool
 [submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
 	path = Modiphius_games/Fallout_RPG/pousilas_framework
