@@ -92,7 +92,6 @@
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
 	path = Unsorted_frameworks/Lorecall_EP2_swquinn
 	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
-
 [submodule "Darksun_framework_Cerebus13"]
 	path = Unsorted_frameworks/Darksun_framework_Cerebus13
 	url = git@github.com:cerebus13/darksun-maptools-framework
@@ -114,3 +113,6 @@
 [submodule "Pinnacle_entertainment/SavageWorlds_Macros_rkathey"]
 	path = Pinnacle_entertainment/SavageWorlds_Macros_rkathey
 	url = https://github.com/rkathey/SWMacros.git
+[submodule "Unsorted_frameworks/5e_framework_Blackflighter"]
+	path = Unsorted_frameworks/5e_framework_Blackflighter
+	url = https://github.com/Blackflighter/5e-Framework.git
