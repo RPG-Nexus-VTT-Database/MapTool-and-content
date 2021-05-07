@@ -105,3 +105,6 @@
 [submodule "Various_assests/Sounds/dstein_various"]
 	path = Various_assests/Sounds/dstein_various
 	url = https://github.com/dstein766/dstein766.github.io.git
+[submodule "Random_tools/RPG_maps_in_Json"]
+	path = Random_tools/RPG_maps_in_Json
+	url = https://github.com/toroxx/rpg_maptools.git
