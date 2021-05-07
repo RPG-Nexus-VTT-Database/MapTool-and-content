@@ -86,3 +86,6 @@
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
 	path = Macro_Tools/MT-Jadebringer-extension_sourceknights
 	url = git@github.com:source-knights/MapTool-jadebringer-extension
+[submodule "Random_tools/Melek_CustomCounters"]
+	path = Random_tools/Melek_CustomCounters
+	url = git@github.com:melek/CustomCounters
