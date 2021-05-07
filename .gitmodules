@@ -122,3 +122,6 @@
 [submodule "Random_tools/various_macros_jdrake3"]
 	path = Random_tools/various_macros_jdrake3
 	url = https://github.com/jdrake3/MapTool.git
+[submodule "Random_tools/various_resource_JamesDevore"]
+	path = Random_tools/various_resource_JamesDevore
+	url = https://github.com/JamesDeVore/MaptoolResources.git
