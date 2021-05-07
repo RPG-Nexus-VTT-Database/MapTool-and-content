@@ -78,7 +78,7 @@
 	path = Macro_Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
 [submodule "charlweed_custom_weapontables"]
-	path = Random_tools/charlweed_custom_weapontables
+	path = Random_tools/Charlweed_Custom_Weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
 	path = Unsorted_frameworks/BBOR_4e_framework
