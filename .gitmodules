@@ -95,3 +95,6 @@
 [submodule "Cerebus13_Darksun_unofficial"]
 	path = unsorted_frameworks/Cerebus13_Darksun_unofficial
 	url = git@github.com:cerebus13/darksun-maptools-framework
+[submodule "Unsorted_Frameworks/Unsorted_Frameworks/Cerebus13_Darksun_unofficial"]
+	path = Unsorted_Frameworks/Unsorted_Frameworks/Cerebus13_Darksun_unofficial
+	url = https://github.com/cerebus13/darksun-maptools-framework
