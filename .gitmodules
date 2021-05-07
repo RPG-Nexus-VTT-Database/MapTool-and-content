@@ -96,3 +96,6 @@
 [submodule "Darksun_framework_Cerebus13"]
 	path = Unsorted_frameworks/Darksun_framework_Cerebus13
 	url = git@github.com:cerebus13/darksun-maptools-framework
+[submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
+	path = Unsorted_frameworks/Zombie_framework_AlexJohson
+	url = git@github.com:AlexJohnsonSays/zombieframework
