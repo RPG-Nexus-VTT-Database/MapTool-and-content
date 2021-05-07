@@ -57,10 +57,10 @@
 	path = MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE
 	url = git@github.com:LordAshes/MapTool-1.3.b89-CCG
 [submodule "WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet"]
-	path = OGC_Systems/Pathfinder1E_ADND3.5E/Dimencia_Character_sheet
+	path = OGC_Systems/Pathfinder1E_ADND3.5/Dimencia_Character_sheet
 	url = git@github.com:Dimencia/D-s-Maptool-Character-Sheet-for-Pathfinder
 [submodule "WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework"]
-	path = OGC_Systems/Pathfinder1E_ADND3.5E/Adventuremagic123_pf1e+3.5_framework
+	path = OGC_Systems/Pathfinder1E_ADND3.5/Adventuremagic123_pf1e+3.5_framework
 	url = git@github.com:adventuremagic123/PF1e-And-3.5-Framework-For-MapTool
 [submodule "macro_tools/Greyhawk_macros"]
 	path = macro_tools/Greyhawk_macros
