@@ -116,3 +116,6 @@
 [submodule "Unsorted_frameworks/ADND2E_unofficial_Celestian"]
 	path = Unsorted_frameworks/ADND2E_unofficial_Celestian
 	url = https://github.com/CelestianGC/ADnD-2e-Framework.git
+[submodule "Random_tools/Bits+Pieces_bubblobill"]
+	path = Random_tools/Bits+Pieces_bubblobill
+	url = https://github.com/bubblobill/MapTool.git
