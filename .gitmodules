@@ -99,3 +99,6 @@
 [submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
 	path = Unsorted_frameworks/Zombie_framework_AlexJohson
 	url = git@github.com:AlexJohnsonSays/zombieframework
+[submodule "Unsorted_frameworks/5e_Aetherwisp"]
+	path = Unsorted_frameworks/5e_Aetherwisp
+	url = https://github.com/Faume/AetherWisp.git
