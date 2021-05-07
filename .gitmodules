@@ -21,7 +21,7 @@
 	path = Macro_Tools/MT_textmate_bundle
 	url = git@github.com:wwmoraes/MapTool.tmbundle
 [submodule "remission_campaign_fr"]
-	path = Unsorted_frameworks/remission_campaign_fr
+	path = Unsorted_frameworks/Remission_Campaign_FR
 	url = git@github.com:JimmyLefevre/remission-maptool-campaign
 [submodule "Macro_Tools/Beekips_5e_macros"]
 	path = Macro_Tools/Beekips_5e_macros
