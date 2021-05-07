@@ -81,7 +81,7 @@
 	path = Random_tools/Charlweed_Custom_Weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
-	path = Unsorted_frameworks/BBOR_4e_framework
+	path = Unsorted_frameworks/4E_framework_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
 	path = Macro_Tools/MT-Jadebringer-extension_sourceknights
@@ -113,3 +113,6 @@
 [submodule "Pinnacle_entertainment/SavageWorlds_Macros_rkathey"]
 	path = Pinnacle_entertainment/SavageWorlds_Macros_rkathey
 	url = https://github.com/rkathey/SWMacros.git
+[submodule "Unsorted_frameworks/ADND2E_unofficial_Celestian"]
+	path = Unsorted_frameworks/ADND2E_unofficial_Celestian
+	url = https://github.com/CelestianGC/ADnD-2e-Framework.git
