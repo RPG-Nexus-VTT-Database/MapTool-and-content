@@ -113,6 +113,3 @@
 [submodule "Pinnacle_entertainment/SavageWorlds_Macros_rkathey"]
 	path = Pinnacle_entertainment/SavageWorlds_Macros_rkathey
 	url = https://github.com/rkathey/SWMacros.git
-[submodule "Unsorted_frameworks/5e_framework_Blackflighter"]
-	path = Unsorted_frameworks/5e_framework_Blackflighter
-	url = https://github.com/Blackflighter/5e-Framework.git
