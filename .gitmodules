@@ -50,9 +50,6 @@
 [submodule "Random_tools/MT_code+assets"]
 	path = Random_tools/MT_code+assets
 	url = git@github.com:charlweed/dandddads
-[submodule "Unsorted_Frameworks/Lorecall_ep2_unofficial_framework"]
-	path = Unsorted_Frameworks/Lorecall_ep2_unofficial_framework
-	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
 [submodule "Token_tools/Hero_Lab_Token_creator"]
 	path = Token_tools/Hero_Lab_Token_creator
 	url = git@github.com:esalarc/herolabtokencreator
