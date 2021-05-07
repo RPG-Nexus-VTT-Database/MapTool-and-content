@@ -94,5 +94,5 @@
 	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
 
 [submodule "Darksun_framework_Cerebus13"]
-	path = Darksun_framework_Cerebus13
+	path = Unsorted_frameworks/Darksun_framework_Cerebus13
 	url = git@github.com:cerebus13/darksun-maptools-framework
