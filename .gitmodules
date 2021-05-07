@@ -89,3 +89,6 @@
 [submodule "random_tools/Melek_CustomCounters"]
 	path = Random_tools/Melek_CustomCounters
 	url = git@github.com:melek/CustomCounters
+[submodule "Unsorted_Frameworks/Lorecall_EP2_swquinn"]
+	path = Unsorted_Frameworks/Lorecall_EP2_swquinn
+	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
