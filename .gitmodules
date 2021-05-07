@@ -90,7 +90,7 @@
 	path = Random_tools/Melek_CustomCounters
 	url = git@github.com:melek/CustomCounters
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
-	path = Unsorted_frameworks/Lorecall_EP2_swquinn
+	path = Unsorted_frameworks/Eclipse_Phase_2E_unofficial_lorecall
 	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
 [submodule "Darksun_framework_Cerebus13"]
 	path = Unsorted_frameworks/Darksun_framework_Cerebus13
@@ -99,10 +99,10 @@
 	path = Unsorted_frameworks/Zombie_framework_AlexJohson
 	url = git@github.com:AlexJohnsonSays/zombieframework
 [submodule "Unsorted_frameworks/5e_Aetherwisp"]
-	path = Unsorted_frameworks/5e_Aetherwisp
+	path = Unsorted_frameworks/5E_framework_Aetherwisp
 	url = https://github.com/Faume/AetherWisp.git
 [submodule "Various_assests/Sounds/dstein_various"]
-	path = Various_assests/Sounds/dstein_various
+	path = Various_assets/Sounds/dstein_various
 	url = https://github.com/dstein766/dstein766.github.io.git
 [submodule "Random_tools/RPG_maps_in_Json"]
 	path = Random_tools/RPG_maps_in_Json
@@ -137,3 +137,6 @@
 [submodule "Macro_Tools/VS_Extension_Tdue21"]
 	path = Macro_Tools/VS_Extension_Tdue21
 	url = https://github.com/Tdue21/mtscript-vscode.git
+[submodule "Various_assets/sounds/soundscape_Flamester"]
+	path = Various_assets/sounds/soundscape_Flamester
+	url = https://github.com/Flamester/MaptoolsSoundScape.git
