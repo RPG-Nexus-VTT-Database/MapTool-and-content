@@ -128,3 +128,12 @@
 [submodule "Random_tools/various_macros_PT_brunocalado"]
 	path = Random_tools/various_macros_PT_brunocalado
 	url = https://github.com/brunocalado/MapToolMacros.git
+[submodule "Unsorted_frameworks/4E_framework_FatedPrime"]
+	path = Unsorted_frameworks/4E_framework_FatedPrime
+	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
+[submodule "Unsorted_frameworks/5E_framework_donmartinoo"]
+	path = Unsorted_frameworks/5E_framework_donmartinoo
+	url = https://github.com/donmartinoo/MartinsFramework.git
+[submodule "Macro_Tools/VS_Extension_Tdue21"]
+	path = Macro_Tools/VS_Extension_Tdue21
+	url = https://github.com/Tdue21/mtscript-vscode.git
