@@ -119,3 +119,6 @@
 [submodule "Random_tools/Bits+Pieces_bubblobill"]
 	path = Random_tools/Bits+Pieces_bubblobill
 	url = https://github.com/bubblobill/MapTool.git
+[submodule "Random_tools/various_macros_jdrake3"]
+	path = Random_tools/various_macros_jdrake3
+	url = https://github.com/jdrake3/MapTool.git
