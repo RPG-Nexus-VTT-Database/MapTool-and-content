@@ -1,21 +1,21 @@
 
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework"]
-	path = WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework
+	path = OGC_Systems/5E/Melek_Simple_5e/framework
 	url = git@github.com:melek/Simple5e
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek"]
-	path = WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek
+	path = OGC_Systems/5E/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek
 	url = git@github.com:bobifle/tokens
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek"]
-	path = WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek
+	path = OGC_Systems/5E/Melek_Simple_5e/addons/Merudo_spell-library_for_melek
 	url = git@github.com:merudo/spell-library
 [submodule "WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework"]
-	path = WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework
+	path = OGC_Systems/5E/Takehara_5e/framework
 	url = git@github.com:rtakehara/5e-framework
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator"]
-	path = WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator
+	path = OGC_Systems/5E/Illydth_imcMonsterCreator
 	url = git@github.com:Illydth/imcMonsterCreator
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates"]
-	path = WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates
+	path = OGC_Systems/5E/Illydth_issSpellStates
 	url = git@github.com:Illydth/issSpellStates
 [submodule "Macro_Tools/MT_textmate_bundle"]
 	path = Macro_Tools/MT_textmate_bundle
@@ -57,19 +57,19 @@
 	path = MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE
 	url = git@github.com:LordAshes/MapTool-1.3.b89-CCG
 [submodule "WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet"]
-	path = WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet
+	path = OGC_Systems/Pathfinder1E_ADND3.5E/Dimencia_Character_sheet
 	url = git@github.com:Dimencia/D-s-Maptool-Character-Sheet-for-Pathfinder
 [submodule "WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework"]
-	path = WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework
+	path = OGC_Systems/Pathfinder1E_ADND3.5E/Adventuremagic123_pf1e+3.5_framework
 	url = git@github.com:adventuremagic123/PF1e-And-3.5-Framework-For-MapTool
 [submodule "macro_tools/Greyhawk_macros"]
 	path = macro_tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
 [submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
-	path = Pinnacle_entertainment/Savage_Worlds_AE/Savage_Worlds_AE_framework_scottbert
+	path = Branded_systems/Pinnacle_Entertainment/Savage_Worlds_AE/Savage_Worlds_AE_framework_scottbert
 	url = git@github.com:scottbert85/swmaptool
 [submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
-	path = Modiphius_games/Fallout_RPG/pousilas_framework
+	path = Branded_systems/Modiphius-unofficial/Fallout_RPG/pousilas_framework
 	url = git@github.com:poutsilas/falloutpnp
 [submodule "Greyhawk_macros"]
 	path = Macro_Tools/Greyhawk_macros
@@ -108,10 +108,10 @@
 	path = Random_tools/RPG_maps_in_Json
 	url = https://github.com/toroxx/rpg_maptools.git
 [submodule "Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey"]
-	path = Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
+	path = Branded_systems/Pinnacle_Entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
 	url = https://github.com/rkathey/SavageWorldsEE.git
 [submodule "Pinnacle_entertainment/SavageWorlds_Macros_rkathey"]
-	path = Pinnacle_entertainment/SavageWorlds_Macros_rkathey
+	path = Branded_systems/Pinnacle_Entertainment/SavageWorlds_Macros_rkathey
 	url = https://github.com/rkathey/SWMacros.git
 [submodule "Unsorted_frameworks/ADND2E_unofficial_Celestian"]
 	path = Unsorted_frameworks/ADND2E_unofficial_Celestian
