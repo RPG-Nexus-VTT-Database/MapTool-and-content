@@ -78,7 +78,7 @@
 	path = Macro_Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
 [submodule "charlweed_custom_weapontables"]
-	path = random_tools/charlweed_custom_weapontables
+	path = Random_tools/charlweed_custom_weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
 	path = Unsorted_frameworks/BBOR_4e_framework
@@ -87,5 +87,5 @@
 	path = Macro_Tools/MT-Jadebringer-extension_sourceknights
 	url = git@github.com:source-knights/MapTool-jadebringer-extension
 [submodule "random_tools/Melek_CustomCounters"]
-	path = random_tools/Melek_CustomCounters
+	path = Random_tools/Melek_CustomCounters
 	url = git@github.com:melek/CustomCounters
