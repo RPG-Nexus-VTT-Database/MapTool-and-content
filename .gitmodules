@@ -102,3 +102,6 @@
 [submodule "Unsorted_frameworks/5e_Aetherwisp"]
 	path = Unsorted_frameworks/5e_Aetherwisp
 	url = https://github.com/Faume/AetherWisp.git
+[submodule "Various_assests/Sounds/dstein_various"]
+	path = Various_assests/Sounds/dstein_various
+	url = https://github.com/dstein766/dstein766.github.io.git
