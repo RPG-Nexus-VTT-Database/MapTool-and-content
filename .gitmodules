@@ -111,3 +111,6 @@
 [submodule "Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey"]
 	path = Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
 	url = https://github.com/rkathey/SavageWorldsEE.git
+[submodule "Pinnacle_entertainment/SavageWorlds_Macros_rkathey"]
+	path = Pinnacle_entertainment/SavageWorlds_Macros_rkathey
+	url = https://github.com/rkathey/SWMacros.git
