@@ -108,3 +108,6 @@
 [submodule "Random_tools/RPG_maps_in_Json"]
 	path = Random_tools/RPG_maps_in_Json
 	url = https://github.com/toroxx/rpg_maptools.git
+[submodule "Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey"]
+	path = Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
+	url = https://github.com/rkathey/SavageWorldsEE.git
