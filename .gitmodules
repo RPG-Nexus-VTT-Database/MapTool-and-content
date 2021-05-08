@@ -140,3 +140,6 @@
 [submodule "Various_assets/sounds/soundscape_Flamester"]
 	path = Various_assets/sounds/soundscape_Flamester
 	url = https://github.com/Flamester/MaptoolsSoundScape.git
+[submodule "Macro_Tools/various_macros_mr-ice"]
+	path = Macro_Tools/various_macros_mr-ice
+	url = https://github.com/mr-ice/maptool-macros.git
