@@ -78,7 +78,7 @@
 	path = Macros+Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
 [submodule "charlweed_custom_weapontables"]
-	path = Random_tools/Charlweed_Custom_Weapontables
+	path = Macros+Tools/Charlweed_Custom_Weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
 	path = Unsorted_frameworks/4E_framework_BBOR
@@ -87,7 +87,7 @@
 	path = Macros+Tools/MT-Jadebringer-extension_sourceknights
 	url = git@github.com:source-knights/MapTool-jadebringer-extension
 [submodule "random_tools/Melek_CustomCounters"]
-	path = Random_tools/Melek_CustomCounters
+	path = Macros+Tools/Melek_CustomCounters
 	url = git@github.com:melek/CustomCounters
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
 	path = Unsorted_frameworks/Eclipse_Phase_2E_unofficial_lorecall
@@ -105,7 +105,7 @@
 	path = Various_assets/Sounds/dstein_various
 	url = https://github.com/dstein766/dstein766.github.io.git
 [submodule "Random_tools/RPG_maps_in_Json"]
-	path = Random_tools/RPG_maps_in_Json
+	path = Macros+Tools/RPG_maps_in_Json
 	url = https://github.com/toroxx/rpg_maptools.git
 [submodule "Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey"]
 	path = Branded_systems/Pinnacle_Entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
@@ -117,16 +117,16 @@
 	path = Unsorted_frameworks/ADND2E_unofficial_Celestian
 	url = https://github.com/CelestianGC/ADnD-2e-Framework.git
 [submodule "Random_tools/Bits+Pieces_bubblobill"]
-	path = Random_tools/Bits+Pieces_bubblobill
+	path = Macros+Tools/Bits+Pieces_bubblobill
 	url = https://github.com/bubblobill/MapTool.git
 [submodule "Random_tools/various_macros_jdrake3"]
-	path = Random_tools/various_macros_jdrake3
+	path = Macros+Tools/various_macros_jdrake3
 	url = https://github.com/jdrake3/MapTool.git
 [submodule "Random_tools/various_resource_JamesDevore"]
-	path = Random_tools/various_resource_JamesDevore
+	path = Macros+Tools/various_resource_JamesDevore
 	url = https://github.com/JamesDeVore/MaptoolResources.git
 [submodule "Random_tools/various_macros_PT_brunocalado"]
-	path = Random_tools/various_macros_PT_brunocalado
+	path = Macros+Tools/various_macros_PT_brunocalado
 	url = https://github.com/brunocalado/MapToolMacros.git
 [submodule "Unsorted_frameworks/4E_framework_FatedPrime"]
 	path = Unsorted_frameworks/4E_framework_FatedPrime
