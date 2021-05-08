@@ -18,25 +18,25 @@
 	path = OGC_Systems/5E/Illydth_issSpellStates
 	url = git@github.com:Illydth/issSpellStates
 [submodule "Macro_Tools/MT_textmate_bundle"]
-	path = Macro_Tools/MT_textmate_bundle
+	path = Macros+Tools/MT_textmate_bundle
 	url = git@github.com:wwmoraes/MapTool.tmbundle
 [submodule "remission_campaign_fr"]
 	path = Unsorted_frameworks/Remission_Campaign_FR
 	url = git@github.com:JimmyLefevre/remission-maptool-campaign
 [submodule "Macro_Tools/Beekips_5e_macros"]
-	path = Macro_Tools/Beekips_5e_macros
+	path = Macros+Tools/Beekips_5e_macros
 	url = git@github.com:Beebkips/maptool-5e-macros
 [submodule "Macro_Tools/MT_Sublime_addon"]
-	path = Macro_Tools/MT_Sublime_addon
+	path = Macros+Tools/MT_Sublime_addon
 	url = git@github.com:wwmoraes/sublime-maptool-syntax
 [submodule "Macro_Tools/MT_custom_dicechecks"]
-	path = Macro_Tools/MT_custom_dicechecks
+	path = Macros+Tools/MT_custom_dicechecks
 	url = git@github.com:charlweed/maptool_custom_dicechecks
 [submodule "Random_tools/MT_Github_integration"]
 	path = Random_tools/MT_Github_integration
 	url = git@github.com:tdue21/maptoolintegration
 [submodule "Macro_Tools/Maptools-HoM"]
-	path = Macro_Tools/Maptools-HoM
+	path = Macros+Tools/Maptools-HoM
 	url = git@github.com:jonathanjacobs/maptools-HoM
 [submodule "Unsorted_Frameworks/battle_of_chaos_unofficial"]
 	path = Unsorted_Frameworks/battle_of_chaos_unofficial
@@ -51,7 +51,7 @@
 	path = Token_tools/Hero_Lab_Token_creator
 	url = git@github.com:esalarc/herolabtokencreator
 [submodule "Macro_Tools/Heavyduck_Macro_maker"]
-	path = Macro_Tools/Heavyduck_Macro_maker
+	path = Macros+Tools/Heavyduck_Macro_maker
 	url = git@github.com:wjrogers/heavyduck.dnd.macromaker
 [submodule "MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE"]
 	path = MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE
@@ -72,10 +72,10 @@
 	path = Branded_systems/Modiphius-unofficial/Fallout_RPG/pousilas_framework
 	url = git@github.com:poutsilas/falloutpnp
 [submodule "Greyhawk_macros"]
-	path = Macro_Tools/Greyhawk_macros
+	path = Macros+Tools/Greyhawk_macros
 	url = git@github.com:ecyclops/greyhawk
 [submodule "juan286_maptoolsmacros_es"]
-	path = Macro_Tools/juan0286_maptoolmacros_es
+	path = Macros+Tools/juan0286_maptoolmacros_es
 	url = git@github.com:juan0286/maptoolsmacros
 [submodule "charlweed_custom_weapontables"]
 	path = Random_tools/Charlweed_Custom_Weapontables
@@ -84,7 +84,7 @@
 	path = Unsorted_frameworks/4E_framework_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
-	path = Macro_Tools/MT-Jadebringer-extension_sourceknights
+	path = Macros+Tools/MT-Jadebringer-extension_sourceknights
 	url = git@github.com:source-knights/MapTool-jadebringer-extension
 [submodule "random_tools/Melek_CustomCounters"]
 	path = Random_tools/Melek_CustomCounters
@@ -135,11 +135,11 @@
 	path = Unsorted_frameworks/5E_framework_donmartinoo
 	url = https://github.com/donmartinoo/MartinsFramework.git
 [submodule "Macro_Tools/VS_Extension_Tdue21"]
-	path = Macro_Tools/VS_Extension_Tdue21
+	path = Macros+Tools/VS_Extension_Tdue21
 	url = https://github.com/Tdue21/mtscript-vscode.git
 [submodule "Various_assets/sounds/soundscape_Flamester"]
 	path = Various_assets/sounds/soundscape_Flamester
 	url = https://github.com/Flamester/MaptoolsSoundScape.git
 [submodule "Macro_Tools/various_macros_mr-ice"]
-	path = Macro_Tools/various_macros_mr-ice
+	path = Macros+Tools/various_macros_mr-ice
 	url = https://github.com/mr-ice/maptool-macros.git
