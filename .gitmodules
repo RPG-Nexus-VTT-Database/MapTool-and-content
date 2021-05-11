@@ -90,7 +90,7 @@
 	path = Macros+Tools/Melek_CustomCounters
 	url = git@github.com:melek/CustomCounters
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
-	path = Unsorted_frameworks/Eclipse_Phase_2E_unofficial_lorecall
+	path = Creative_Commons_systems/Eclipse_Phase/Eclipse_Phase_2E_unofficial_lorecall
 	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
 [submodule "Darksun_framework_Cerebus13"]
 	path = Unsorted_frameworks/Darksun_framework_Cerebus13
@@ -99,7 +99,7 @@
 	path = Unsorted_frameworks/Zombie_framework_AlexJohson
 	url = git@github.com:AlexJohnsonSays/zombieframework
 [submodule "Unsorted_frameworks/5e_Aetherwisp"]
-	path = OGC_Systems/5E/5E_framework_Aetherwisp
+	path = OGC_Systems/5E/Aetherwisp_5E_framework
 	url = https://github.com/Faume/AetherWisp.git
 [submodule "Various_assests/Sounds/dstein_various"]
 	path = Various_assets/Sounds/dstein_various
@@ -132,7 +132,7 @@
 	path = Branded_systems/WOTC_unoffical/4E/4E_framework_FatedPrime
 	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
 [submodule "Unsorted_frameworks/5E_framework_donmartinoo"]
-	path = OGC_Systems/5E/5E_framework_donmartinoo
+	path = OGC_Systems/5E/donmartinoo_5E_framework
 	url = https://github.com/donmartinoo/MartinsFramework.git
 [submodule "Macro_Tools/VS_Extension_Tdue21"]
 	path = Macros+Tools/VS_Extension_Tdue21
@@ -144,5 +144,5 @@
 	path = Macros+Tools/various_macros_mr-ice
 	url = https://github.com/mr-ice/maptool-macros.git
 [submodule "OGC_Systems/5E/5e_framework_Lorecall"]
-	path = OGC_Systems/5E/5e_framework_Lorecall
+	path = OGC_Systems/5E/lorecall_5E_framework
 	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
