@@ -1,6 +1,6 @@
 Framworks and related content based on the 5e SRD and related OGL licenses.
 
-Any materials submitted must meet OGL license terms.
+Any materials submitted for direct hosting must meet OGL license terms.  Links to other repos and/or resources may be submitted for ungraded materials.
 
 The Melek Simple 5e framework is a simple-to-use first framework for playing 5th edition Dungeons and Dragons in MapTool. Tinker friendly, this framework includes built-in help features and is designed to be a foundation for your game.  This framework is intended to facilitate traditional play styles and does not include extensive automation.
 
