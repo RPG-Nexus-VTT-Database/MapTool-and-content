@@ -137,8 +137,8 @@
 [submodule "Macro_Tools/VS_Extension_Tdue21"]
 	path = Macros+Tools/VS_Extension_Tdue21
 	url = https://github.com/Tdue21/mtscript-vscode.git
-[submodule "Various_assets/sounds/soundscape_Flamester"]
-	path = Various_assets/sounds/soundscape_Flamester
+[submodule "Various_assets/Sounds/soundscape_Flamester"]
+	path = Various_assets/Sounds/soundscape_Flamester
 	url = https://github.com/Flamester/MaptoolsSoundScape.git
 [submodule "Macro_Tools/various_macros_mr-ice"]
 	path = Macros+Tools/various_macros_mr-ice
