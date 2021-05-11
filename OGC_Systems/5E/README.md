@@ -1,4 +1,4 @@
-Framworks and related content based on the 5e SRD and related OGL licenses.
+Frameworks and related content based on the 5e SRD and related OGL licenses.
 
 Any materials submitted for direct hosting must meet OGL license terms.  Links to other repos and/or resources may be submitted for ungraded materials.
 
