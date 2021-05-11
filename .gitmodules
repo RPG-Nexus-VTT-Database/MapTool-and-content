@@ -1,103 +1,103 @@
 
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework"]
 	path = OGC_Systems/5E/Melek_Simple_5e/framework
-	url = git@github.com:melek/Simple5e
+	url = https://github.com/melek/Simple5e
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek"]
 	path = OGC_Systems/5E/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek
-	url = git@github.com:bobifle/tokens
+	url = https://github.com/bobifle/tokens
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek"]
 	path = OGC_Systems/5E/Melek_Simple_5e/addons/Merudo_spell-library_for_melek
-	url = git@github.com:merudo/spell-library
+	url = https://github.com/merudo/spell-library
 [submodule "WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework"]
 	path = OGC_Systems/5E/Takehara_5e/framework
-	url = git@github.com:rtakehara/5e-framework
+	url = https://github.com/rtakehara/5e-framework
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator"]
 	path = OGC_Systems/5E/Illydth_imcMonsterCreator
-	url = git@github.com:Illydth/imcMonsterCreator
+	url = https://github.com/Illydth/imcMonsterCreator
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_issSpellStates"]
 	path = OGC_Systems/5E/Illydth_issSpellStates
-	url = git@github.com:Illydth/issSpellStates
+	url = https://github.com/Illydth/issSpellStates
 [submodule "Macro_Tools/MT_textmate_bundle"]
 	path = Macros+Tools/MT_textmate_bundle
-	url = git@github.com:wwmoraes/MapTool.tmbundle
+	url = https://github.com/wwmoraes/MapTool.tmbundle
 [submodule "remission_campaign_fr"]
 	path = Unsorted_frameworks/Remission_Campaign_FR
-	url = git@github.com:JimmyLefevre/remission-maptool-campaign
+	url = https://github.com/JimmyLefevre/remission-maptool-campaign
 [submodule "Macro_Tools/Beekips_5e_macros"]
 	path = Macros+Tools/Beekips_5e_macros
-	url = git@github.com:Beebkips/maptool-5e-macros
+	url = https://github.com/Beebkips/maptool-5e-macros
 [submodule "Macro_Tools/MT_Sublime_addon"]
 	path = Macros+Tools/MT_Sublime_addon
-	url = git@github.com:wwmoraes/sublime-maptool-syntax
+	url = https://github.com/wwmoraes/sublime-maptool-syntax
 [submodule "Macro_Tools/MT_custom_dicechecks"]
 	path = Macros+Tools/MT_custom_dicechecks
-	url = git@github.com:charlweed/maptool_custom_dicechecks
+	url = https://github.com/charlweed/maptool_custom_dicechecks
 [submodule "Random_tools/MT_Github_integration"]
 	path = Random_tools/MT_Github_integration
-	url = git@github.com:tdue21/maptoolintegration
+	url = https://github.com/tdue21/maptoolintegration
 [submodule "Macro_Tools/Maptools-HoM"]
 	path = Macros+Tools/Maptools-HoM
-	url = git@github.com:jonathanjacobs/maptools-HoM
+	url = https://github.com/jonathanjacobs/maptools-HoM
 [submodule "Unsorted_Frameworks/battle_of_chaos_unofficial"]
 	path = Unsorted_Frameworks/battle_of_chaos_unofficial
-	url = git@github.com:fenghou1st/BattleOfChaos-MapTool-LibToken
+	url = https://github.com/fenghou1st/BattleOfChaos-MapTool-LibToken
 [submodule "Random_tools/MT_1.3.b89_plugin_adder"]
 	path = Random_tools/MT_1.3.b89_plugin_adder
-	url = git@github.com:lordashes/maptool-1.3.b89-plugin
+	url = https://github.com/lordashes/maptool-1.3.b89-plugin
 [submodule "Random_tools/MT_code+assets"]
 	path = Random_tools/MT_code+assets
-	url = git@github.com:charlweed/dandddads
+	url = https://github.com/charlweed/dandddads
 [submodule "Token_tools/Hero_Lab_Token_creator"]
 	path = Token_tools/Hero_Lab_Token_creator
-	url = git@github.com:esalarc/herolabtokencreator
+	url = https://github.com/esalarc/herolabtokencreator
 [submodule "Macro_Tools/Heavyduck_Macro_maker"]
 	path = Macros+Tools/Heavyduck_Macro_maker
-	url = git@github.com:wjrogers/heavyduck.dnd.macromaker
+	url = https://github.com/wjrogers/heavyduck.dnd.macromaker
 [submodule "MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE"]
 	path = MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE
-	url = git@github.com:LordAshes/MapTool-1.3.b89-CCG
+	url = https://github.com/LordAshes/MapTool-1.3.b89-CCG
 [submodule "WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet"]
 	path = OGC_Systems/Pathfinder1E_ADND3.5/Dimencia_Character_sheet
-	url = git@github.com:Dimencia/D-s-Maptool-Character-Sheet-for-Pathfinder
+	url = https://github.com/Dimencia/D-s-Maptool-Character-Sheet-for-Pathfinder
 [submodule "WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework"]
 	path = OGC_Systems/Pathfinder1E_ADND3.5/Adventuremagic123_pf1e+3.5_framework
-	url = git@github.com:adventuremagic123/PF1e-And-3.5-Framework-For-MapTool
+	url = https://github.com/adventuremagic123/PF1e-And-3.5-Framework-For-MapTool
 [submodule "macro_tools/Greyhawk_macros"]
 	path = macro_tools/Greyhawk_macros
-	url = git@github.com:ecyclops/greyhawk
+	url = https://github.com/ecyclops/greyhawk
 [submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
 	path = Branded_systems/Pinnacle_Entertainment/Savage_Worlds_AE/Savage_Worlds_AE_framework_scottbert
-	url = git@github.com:scottbert85/swmaptool
+	url = https://github.com/scottbert85/swmaptool
 [submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
 	path = Branded_systems/Modiphius-unofficial/Fallout_RPG/pousilas_framework
-	url = git@github.com:poutsilas/falloutpnp
+	url = https://github.com/poutsilas/falloutpnp
 [submodule "Greyhawk_macros"]
 	path = Macros+Tools/Greyhawk_macros
-	url = git@github.com:ecyclops/greyhawk
+	url = https://github.com/ecyclops/greyhawk
 [submodule "juan286_maptoolsmacros_es"]
 	path = Macros+Tools/juan0286_maptoolmacros_es
-	url = git@github.com:juan0286/maptoolsmacros
+	url = https://github.com/juan0286/maptoolsmacros
 [submodule "charlweed_custom_weapontables"]
 	path = Macros+Tools/Charlweed_Custom_Weapontables
-	url = git@github.com:charlweed/maptool_custom_weapontables
+	url = https://github.com/charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
 	path = Branded_systems/WOTC_unoffical/4E/4E_framework_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
 	path = Macros+Tools/MT-Jadebringer-extension_sourceknights
-	url = git@github.com:source-knights/MapTool-jadebringer-extension
+	url = https://github.com/source-knights/MapTool-jadebringer-extension
 [submodule "random_tools/Melek_CustomCounters"]
 	path = Macros+Tools/Melek_CustomCounters
-	url = git@github.com:melek/CustomCounters
+	url = https://github.com/melek/CustomCounters
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
 	path = Creative_Commons_systems/Eclipse_Phase/Eclipse_Phase_2E_unofficial_lorecall
-	url = git@github.com:swquinn/lorecall-ep2-framework-for-maptool
+	url = https://github.com/swquinn/lorecall-ep2-framework-for-maptool
 [submodule "Darksun_framework_Cerebus13"]
 	path = Unsorted_frameworks/Darksun_framework_Cerebus13
-	url = git@github.com:cerebus13/darksun-maptools-framework
+	url = https://github.com/cerebus13/darksun-maptools-framework
 [submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
 	path = Unsorted_frameworks/Zombie_framework_AlexJohson
-	url = git@github.com:AlexJohnsonSays/zombieframework
+	url = https://github.com/AlexJohnsonSays/zombieframework
 [submodule "Unsorted_frameworks/5e_Aetherwisp"]
 	path = OGC_Systems/5E/Aetherwisp_5E_framework
 	url = https://github.com/Faume/AetherWisp.git
