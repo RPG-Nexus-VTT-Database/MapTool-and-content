@@ -81,7 +81,7 @@
 	path = Macros+Tools/Charlweed_Custom_Weapontables
 	url = git@github.com:charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
-	path = Unsorted_frameworks/4E_framework_BBOR
+	path = Branded_systems/WOTC_unoffical/4E/4E_framework_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
 	path = Macros+Tools/MT-Jadebringer-extension_sourceknights
@@ -99,7 +99,7 @@
 	path = Unsorted_frameworks/Zombie_framework_AlexJohson
 	url = git@github.com:AlexJohnsonSays/zombieframework
 [submodule "Unsorted_frameworks/5e_Aetherwisp"]
-	path = Unsorted_frameworks/5E_framework_Aetherwisp
+	path = OGC_Systems/5E/5E_framework_Aetherwisp
 	url = https://github.com/Faume/AetherWisp.git
 [submodule "Various_assests/Sounds/dstein_various"]
 	path = Various_assets/Sounds/dstein_various
@@ -129,10 +129,10 @@
 	path = Macros+Tools/various_macros_PT_brunocalado
 	url = https://github.com/brunocalado/MapToolMacros.git
 [submodule "Unsorted_frameworks/4E_framework_FatedPrime"]
-	path = Unsorted_frameworks/4E_framework_FatedPrime
+	path = Branded_systems/WOTC_unoffical/4E/4E_framework_FatedPrime
 	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
 [submodule "Unsorted_frameworks/5E_framework_donmartinoo"]
-	path = Unsorted_frameworks/5E_framework_donmartinoo
+	path = OGC_Systems/5E/5E_framework_donmartinoo
 	url = https://github.com/donmartinoo/MartinsFramework.git
 [submodule "Macro_Tools/VS_Extension_Tdue21"]
 	path = Macros+Tools/VS_Extension_Tdue21
@@ -143,3 +143,6 @@
 [submodule "Macro_Tools/various_macros_mr-ice"]
 	path = Macros+Tools/various_macros_mr-ice
 	url = https://github.com/mr-ice/maptool-macros.git
+[submodule "OGC_Systems/5E/5e_framework_Lorecall"]
+	path = OGC_Systems/5E/5e_framework_Lorecall
+	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
