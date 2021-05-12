@@ -72,7 +72,7 @@
 	path = Branded_systems/Modiphius-unofficial/Fallout_RPG/pousilas_framework
 	url = https://github.com/poutsilas/falloutpnp
 [submodule "Greyhawk_macros"]
-	path = Macros+Tools/Greyhawk_macros
+	path = OGC_Systems/OSRIC_WOTC_1E_2E/Greyhawk_weather_framework
 	url = https://github.com/ecyclops/greyhawk
 [submodule "juan286_maptoolsmacros_es"]
 	path = Macros+Tools/juan0286_maptoolmacros_es
@@ -152,3 +152,6 @@
 [submodule "MapTool_Main_repo"]
 	path = MapTool_Main_repo
 	url = https://github.com/RPTools/maptool.git
+[submodule "Licensing_tools/Token_License_tool"]
+	path = Licensing_tools/Token_License_tool
+	url = https://github.com/RPG-Nexus-VTT-Database/MT_Token_License_Tool.git
