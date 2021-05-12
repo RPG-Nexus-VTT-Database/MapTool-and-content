@@ -149,3 +149,6 @@
 [submodule "Token_tools/TokenTool_RPTools"]
 	path = Token_tools/TokenTool_RPTools
 	url = https://github.com/RPTools/TokenTool.git
+[submodule "MapTool_Main_repo"]
+	path = MapTool_Main_repo
+	url = https://github.com/RPTools/maptool.git
