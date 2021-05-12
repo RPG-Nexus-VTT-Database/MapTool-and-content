@@ -146,3 +146,6 @@
 [submodule "OGC_Systems/5E/5e_framework_Lorecall"]
 	path = OGC_Systems/5E/lorecall_5E_framework
 	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
+[submodule "Token_tools/TokenTool_RPTools"]
+	path = Token_tools/TokenTool_RPTools
+	url = https://github.com/RPTools/TokenTool.git
