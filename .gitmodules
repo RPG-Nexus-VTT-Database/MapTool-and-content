@@ -81,7 +81,7 @@
 	path = Macros+Tools/Charlweed_Custom_Weapontables
 	url = https://github.com/charlweed/maptool_custom_weapontables
 [submodule "BBOR_4e_framework"]
-	path = Branded_systems/WOTC_unoffical/4E/4E_framework_BBOR
+	path = Branded_systems/WOTC_unofficial/4E/4E_framework_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
 	path = Macros+Tools/MT-Jadebringer-extension_sourceknights
@@ -93,7 +93,7 @@
 	path = Creative_Commons_systems/Eclipse_Phase/Eclipse_Phase_2E_unofficial_lorecall
 	url = https://github.com/swquinn/lorecall-ep2-framework-for-maptool
 [submodule "Darksun_framework_Cerebus13"]
-	path = Unsorted_frameworks/Darksun_framework_Cerebus13
+	path = Branded_systems/WOTC_unofficial/4E/4E_Darksun-unofficial_Cerebus13
 	url = https://github.com/cerebus13/darksun-maptools-framework
 [submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
 	path = Unsorted_frameworks/Zombie_framework_AlexJohson
@@ -129,7 +129,7 @@
 	path = Macros+Tools/various_macros_PT_brunocalado
 	url = https://github.com/brunocalado/MapToolMacros.git
 [submodule "Unsorted_frameworks/4E_framework_FatedPrime"]
-	path = Branded_systems/WOTC_unoffical/4E/4E_framework_FatedPrime
+	path = Branded_systems/WOTC_unofficial/4E/4E_framework_FatedPrime
 	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
 [submodule "Unsorted_frameworks/5E_framework_donmartinoo"]
 	path = OGC_Systems/5E/5E_framework_donmartinoo
