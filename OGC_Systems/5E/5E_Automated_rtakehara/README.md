@@ -1,0 +1,1 @@
+ This area contains the core framework files for Rod Takehara's SRD Framework, other frameworks derived from Rods as well as a collection of addons, code snippets and playable content built on the the takehara core framework
