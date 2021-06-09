@@ -158,3 +158,9 @@
 [submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR"]
 	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR
 	url = https://github.com/bbor/maptool-4e
+[submodule "Frameworks/DND-unofficial+clones/4E/4E_Darksun-unoffical_Cerebus13"]
+	path = Frameworks/DND-unofficial+clones/4E/4E_Darksun-unoffical_Cerebus13
+	url = https://github.com/cerebus13/darksun-maptools-framework
+[submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_FatedPrime"]
+	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_FatedPrime
+	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
