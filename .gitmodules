@@ -80,7 +80,7 @@
 [submodule "charlweed_custom_weapontables"]
 	path = Macros+Tools/Charlweed_Custom_Weapontables
 	url = https://github.com/charlweed/maptool_custom_weapontables
-[submodule "BBOR_4e_framework"]
+[submodule "BBOR_4E_framework"]
 	path = Frameworks/DND-unofficial+clones/4E/4E-unofficial_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
