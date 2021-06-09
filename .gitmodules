@@ -80,9 +80,6 @@
 [submodule "charlweed_custom_weapontables"]
 	path = Macros+Tools/Charlweed_Custom_Weapontables
 	url = https://github.com/charlweed/maptool_custom_weapontables
-[submodule "BBOR_4E_framework"]
-	path = Frameworks/DND-unofficial+clones/4E/4E-unofficial_BBOR
-	url = https://github.com/bbor/maptool-4e
 [submodule "Macro_Tools/MT-Jadebringer-extension_sourceknights"]
 	path = Macros+Tools/MT-Jadebringer-extension_sourceknights
 	url = https://github.com/source-knights/MapTool-jadebringer-extension
@@ -158,3 +155,6 @@
 [submodule "OGC_Systems/5E/5E_Automated_rtakehara/5E_framework_Exanded_compendium_merudo"]
 	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_rtakehara/5E_framework_Expanded_Compendium_Merudo
 	url = https://github.com/Merudo/5e-compendium-expended
+[submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR"]
+	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR
+	url = https://github.com/bbor/maptool-4e
