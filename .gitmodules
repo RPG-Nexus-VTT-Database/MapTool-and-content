@@ -1,15 +1,15 @@
 
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Melek/framework
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_Melek/framework
 	url = https://github.com/melek/Simple5e
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek"]
 	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_Melek/addons/Bobifle_Dropin_5e_for_melek
 	url = https://github.com/bobifle/tokens
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Melek/addons/Merudo_spell-library_for_melek
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_Melek/addons/Merudo_spell-library_for_melek
 	url = https://github.com/merudo/spell-library
 [submodule "WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_rtakehara/5E_framework_rtakehara_original
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_rtakehara/5E_framework_rtakehara_original
 	url = https://github.com/rtakehara/5e-framework
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator"]
 	path = Frameworks/DND-unofficial+clones/5E/5E_imcMonsterCreator_Illydth
@@ -21,7 +21,7 @@
 	path = Macros+Tools/MT_textmate_bundle
 	url = https://github.com/wwmoraes/MapTool.tmbundle
 [submodule "remission_campaign_fr"]
-	path = Frameworks/Remission-unofficial_FR
+	path = Frameworks+addons/Remission-unofficial_FR
 	url = https://github.com/JimmyLefevre/remission-maptool-campaign
 [submodule "Macro_Tools/Beekips_5e_macros"]
 	path = Macros+Tools/Beekips_5e_macros
@@ -54,22 +54,22 @@
 	path = MT_Modded_versions/MT_Card_Game_edition/LordAshes_MT1.3.b89_CGE
 	url = https://github.com/LordAshes/MapTool-1.3.b89-CCG
 [submodule "WOTC_SRD/Pathfinder_SRD/Dimencia_Character_sheet"]
-	path = Frameworks/Pathfinder+Starfinder/Pathfinder1E_ADND3.5/Dimencia_Character_sheet
+	path = Frameworks+addons/Pathfinder+Starfinder/Pathfinder1E_ADND3.5/Dimencia_Character_sheet
 	url = https://github.com/Dimencia/D-s-Maptool-Character-Sheet-for-Pathfinder
 [submodule "WOTC_SRD/pf1e_srd3.5/frameworks/Adventuremagic123_pf1e+3.5_framework"]
-	path = Frameworks/Pathfinder+Starfinder/Pathfinder1E_ADND3.5/Adventuremagic123_pf1e+3.5_framework
+	path = Frameworks+addons/Pathfinder+Starfinder/Pathfinder1E_ADND3.5/Adventuremagic123_pf1e+3.5_framework
 	url = https://github.com/adventuremagic123/PF1e-And-3.5-Framework-For-MapTool
 [submodule "macro_tools/Greyhawk_macros"]
 	path = macro_tools/Greyhawk_macros
 	url = https://github.com/ecyclops/greyhawk
 [submodule "Pinnacle_entertainment/savage_worlds_ae/frameworks/scottbert"]
-	path = Frameworks/Savage_Worlds/Savage_Worlds_AE/Savage_Worlds_AE_framework_scottbert
+	path = Frameworks+addons/Savage_Worlds/Savage_Worlds_AE/Savage_Worlds_AE_framework_scottbert
 	url = https://github.com/scottbert85/swmaptool
 [submodule "Modiphius_games/Fallout_RPG/pousilas_framework"]
-	path = Frameworks/Fallout-unofficial/pousilas_framework
+	path = Frameworks+addons/Fallout-unofficial/pousilas_framework
 	url = https://github.com/poutsilas/falloutpnp
 [submodule "Greyhawk_macros"]
-	path = Frameworks/DND-unofficial+clones/ADND/OSRIC_1E_2E/Greyhawk_weather_framework
+	path = Frameworks+addons/DND-unofficial+clones/ADND/OSRIC_1E_2E/Greyhawk_weather_framework
 	url = https://github.com/ecyclops/greyhawk
 [submodule "juan286_maptoolsmacros_es"]
 	path = Macros+Tools/juan0286_maptoolmacros_es
@@ -84,10 +84,10 @@
 	path = Macros+Tools/Melek_CustomCounters
 	url = https://github.com/melek/CustomCounters
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
-	path = Frameworks/Eclipse_Phase-unofficial/Eclipse_Phase_2E_unofficial_lorecall
+	path = Frameworks+addons/Eclipse_Phase-unofficial/Eclipse_Phase_2E_unofficial_lorecall
 	url = https://github.com/swquinn/lorecall-ep2-framework-for-maptool
 [submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
-	path = Frameworks/Zombie-unofficial
+	path = Frameworks+addons/Zombie-unofficial
 	url = https://github.com/AlexJohnsonSays/zombieframework
 [submodule "Various_assests/Sounds/dstein_various"]
 	path = Various_assets/Sounds/dstein_various
@@ -96,13 +96,13 @@
 	path = Macros+Tools/RPG_maps_in_Json
 	url = https://github.com/toroxx/rpg_maptools.git
 [submodule "Pinnacle_entertainment/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey"]
-	path = Frameworks/Savage_Worlds/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
+	path = Frameworks+addons/Savage_Worlds/Savage_Worlds_EE/Savage_Worlds_EE_framework_rkathey
 	url = https://github.com/rkathey/SavageWorldsEE.git
 [submodule "Pinnacle_entertainment/SavageWorlds_Macros_rkathey"]
-	path = Frameworks/Savage_Worlds/SavageWorlds_Macros_rkathey
+	path = Frameworks+addons/Savage_Worlds/SavageWorlds_Macros_rkathey
 	url = https://github.com/rkathey/SWMacros.git
 [submodule "Unsorted_frameworks/ADND2E_unofficial_Celestian"]
-	path = Frameworks/DND-unofficial+clones/ADND/OSRIC_1E_2E/Celestian_OSRIC_WOTC2E_framework
+	path = Frameworks+addons/DND-unofficial+clones/ADND/OSRIC_1E_2E/Celestian_OSRIC_WOTC2E_framework
 	url = https://github.com/CelestianGC/ADnD-2e-Framework.git
 [submodule "Random_tools/Bits+Pieces_bubblobill"]
 	path = Macros+Tools/Bits+Pieces_bubblobill
@@ -135,23 +135,23 @@
 	path = Licensing_tools/Token_License_tool
 	url = https://github.com/RPG-Nexus-VTT-Database/MT_Token_License_Tool.git
 [submodule "OGC_Systems/5E/5E_Automated_rtakehara/5E_framework_Exanded_compendium_merudo"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_rtakehara/5E_framework_Expanded_Compendium_Merudo
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_rtakehara/5E_framework_Expanded_Compendium_Merudo
 	url = https://github.com/Merudo/5e-compendium-expended
 [submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR"]
-	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR
+	path = Frameworks+addons/DND-unofficial+clones/4E/4E-unoffical_BBOR
 	url = https://github.com/bbor/maptool-4e
 [submodule "Frameworks/DND-unofficial+clones/4E/4E_Darksun-unoffical_Cerebus13"]
-	path = Frameworks/DND-unofficial+clones/4E/4E_Darksun-unoffical_Cerebus13
+	path = Frameworks+addons/DND-unofficial+clones/4E/4E_Darksun-unoffical_Cerebus13
 	url = https://github.com/cerebus13/darksun-maptools-framework
 [submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_FatedPrime"]
-	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_FatedPrime
+	path = Frameworks+addons/DND-unofficial+clones/4E/4E-unoffical_FatedPrime
 	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
 [submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_Aetherwisp"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Aetherwisp
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_Aetherwisp
 	url = https://github.com/Faume/AetherWisp.git
 [submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_donmartinoo"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_donmartinoo
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_donmartinoo
 	url = https://github.com/donmartinoo/MartinsFramework.git
 [submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_lorecall"]
-	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_lorecall
+	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_lorecall
 	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
