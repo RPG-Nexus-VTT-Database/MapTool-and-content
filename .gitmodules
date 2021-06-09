@@ -1,15 +1,15 @@
 
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/framework"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_Melek/framework
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Melek/framework
 	url = https://github.com/melek/Simple5e
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Bobifle_Dropin_5e_for_melek"]
 	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_Melek/addons/Bobifle_Dropin_5e_for_melek
 	url = https://github.com/bobifle/tokens
 [submodule "WOTC_SRD/SRD5_OGL1.1/Melek_Simple_5e/addons/Merudo_spell-library_for_melek"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_Melek/addons/Merudo_spell-library_for_melek
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Melek/addons/Merudo_spell-library_for_melek
 	url = https://github.com/merudo/spell-library
 [submodule "WOTC_SRD/SRD5_OGL1.1/Takehara_5e/framework"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_rtakehara/5E_framework_rtakehara_original
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_rtakehara/5E_framework_rtakehara_original
 	url = https://github.com/rtakehara/5e-framework
 [submodule "WOTC_SRD/SRD5_OGL1.1/Illydth_imcMonsterCreator"]
 	path = Frameworks/DND-unofficial+clones/5E/5E_imcMonsterCreator_Illydth
@@ -147,7 +147,7 @@
 	path = Licensing_tools/Token_License_tool
 	url = https://github.com/RPG-Nexus-VTT-Database/MT_Token_License_Tool.git
 [submodule "OGC_Systems/5E/5E_Automated_rtakehara/5E_framework_Exanded_compendium_merudo"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_rtakehara/5E_framework_Expanded_Compendium_Merudo
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_rtakehara/5E_framework_Expanded_Compendium_Merudo
 	url = https://github.com/Merudo/5e-compendium-expended
 [submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR"]
 	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_BBOR
@@ -158,3 +158,6 @@
 [submodule "Frameworks/DND-unofficial+clones/4E/4E-unoffical_FatedPrime"]
 	path = Frameworks/DND-unofficial+clones/4E/4E-unoffical_FatedPrime
 	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
+[submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_Aetherwisp"]
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Aetherwisp
+	url = https://github.com/Faume/AetherWisp.git
