@@ -38,9 +38,6 @@
 [submodule "Macro_Tools/Maptools-HoM"]
 	path = Macros+Tools/Maptools-HoM
 	url = https://github.com/jonathanjacobs/maptools-HoM
-[submodule "Unsorted_Frameworks/battle_of_chaos_unofficial"]
-	path = Unsorted_Frameworks/battle_of_chaos_unofficial
-	url = https://github.com/fenghou1st/BattleOfChaos-MapTool-LibToken
 [submodule "Random_tools/MT_1.3.b89_plugin_adder"]
 	path = Random_tools/MT_1.3.b89_plugin_adder
 	url = https://github.com/lordashes/maptool-1.3.b89-plugin
@@ -92,9 +89,6 @@
 [submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
 	path = Frameworks/Zombie-unofficial
 	url = https://github.com/AlexJohnsonSays/zombieframework
-[submodule "Unsorted_frameworks/5e_Aetherwisp"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_Aetherwisp
-	url = https://github.com/Faume/AetherWisp.git
 [submodule "Various_assests/Sounds/dstein_various"]
 	path = Various_assets/Sounds/dstein_various
 	url = https://github.com/dstein766/dstein766.github.io.git
@@ -122,9 +116,6 @@
 [submodule "Random_tools/various_macros_PT_brunocalado"]
 	path = Macros+Tools/various_macros_PT_brunocalado
 	url = https://github.com/brunocalado/MapToolMacros.git
-[submodule "Unsorted_frameworks/5E_framework_donmartinoo"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_DE_donmartinoo
-	url = https://github.com/donmartinoo/MartinsFramework.git
 [submodule "Macro_Tools/VS_Extension_Tdue21"]
 	path = Macros+Tools/VS_Extension_Tdue21
 	url = https://github.com/Tdue21/mtscript-vscode.git
@@ -134,9 +125,6 @@
 [submodule "Macro_Tools/various_macros_mr-ice"]
 	path = Macros+Tools/various_macros_mr-ice
 	url = https://github.com/mr-ice/maptool-macros.git
-[submodule "OGC_Systems/5E/5e_framework_Lorecall"]
-	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_lorecall
-	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
 [submodule "Token_tools/TokenTool_RPTools"]
 	path = Token_tools/TokenTool_RPTools
 	url = https://github.com/RPTools/TokenTool.git
@@ -161,3 +149,9 @@
 [submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_Aetherwisp"]
 	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_Aetherwisp
 	url = https://github.com/Faume/AetherWisp.git
+[submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_donmartinoo"]
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_donmartinoo
+	url = https://github.com/donmartinoo/MartinsFramework.git
+[submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_lorecall"]
+	path = Frameworks/DND-unofficial+clones/5E/5E-SRD_lorecall
+	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
