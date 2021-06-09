@@ -89,9 +89,6 @@
 [submodule "Unsorted_frameworks/Lorecall_EP2_swquinn"]
 	path = Frameworks/Eclipse_Phase-unofficial/Eclipse_Phase_2E_unofficial_lorecall
 	url = https://github.com/swquinn/lorecall-ep2-framework-for-maptool
-[submodule "Darksun_framework_Cerebus13"]
-	path = Frameworks/DND-unofficial+clones/4E/4E_Darksun-unofficial_Cerebus13
-	url = https://github.com/cerebus13/darksun-maptools-framework
 [submodule "Unsorted_frameworks/Zombie_framework_AlexJohson"]
 	path = Frameworks/Zombie-unofficial
 	url = https://github.com/AlexJohnsonSays/zombieframework
@@ -125,9 +122,6 @@
 [submodule "Random_tools/various_macros_PT_brunocalado"]
 	path = Macros+Tools/various_macros_PT_brunocalado
 	url = https://github.com/brunocalado/MapToolMacros.git
-[submodule "Unsorted_frameworks/4E_framework_FatedPrime"]
-	path = Frameworks/DND-unofficial+clones/4E/4E-unofficial_FatedPrime
-	url = https://github.com/FatedPrime/MaptoolAdvancedFramework.git
 [submodule "Unsorted_frameworks/5E_framework_donmartinoo"]
 	path = Frameworks/DND-unofficial+clones/5E/5E_SRD_DE_donmartinoo
 	url = https://github.com/donmartinoo/MartinsFramework.git
