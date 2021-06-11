@@ -24,7 +24,7 @@
 	path = Frameworks+addons/Remission-unofficial_FR
 	url = https://github.com/JimmyLefevre/remission-maptool-campaign
 [submodule "Macro_Tools/Beekips_5e_macros"]
-	path = Macros+Tools/Beekips_5e_macros
+	path = Frameworks+addons/5E/5E_macros_Beekips
 	url = https://github.com/Beebkips/maptool-5e-macros
 [submodule "Macro_Tools/MT_Sublime_addon"]
 	path = Macros+Tools/MT_Sublime_addon
@@ -36,7 +36,7 @@
 	path = Random_tools/MT_Github_integration
 	url = https://github.com/tdue21/maptoolintegration
 [submodule "Macro_Tools/Maptools-HoM"]
-	path = Macros+Tools/Maptools-HoM
+	path = Frameworks+addons/5E/Maptools-HoM
 	url = https://github.com/jonathanjacobs/maptools-HoM
 [submodule "Random_tools/MT_1.3.b89_plugin_adder"]
 	path = Random_tools/MT_1.3.b89_plugin_adder
@@ -155,3 +155,6 @@
 [submodule "Frameworks/DND-unofficial+clones/5E/5E-SRD_lorecall"]
 	path = Frameworks+addons/DND-unofficial+clones/5E/5E-SRD_lorecall
 	url = https://github.com/swquinn/lorecall-dnd5e-framework-for-maptool.git
+[submodule "Macros+Tools/Inventory_Tracker_Neofax75"]
+	path = Macros+Tools/Inventory_Tracker_Neofax75
+	url = https://github.com/NeoFax75/InventoryTracker.git
